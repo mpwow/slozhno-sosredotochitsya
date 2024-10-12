@@ -16,15 +16,15 @@
   --font-size: 18px;
   --display-header-decoration: none;
   --change-theme-menu-text-color: #353430;
-  --change-theme-menu-button-hover-color: #353430;
+  --change-theme-menu-button-hover-color: #35343040;
   --change-theme-menu-button-focus-color: #353430;
   --change-theme-menu-button-active-color: #353430;
   --header-title-text-color: #ffc2e6;
-  --text-shadow-color: #ff0070;
+  --text-shadow-color: #ff8dcb;
   --title-decor-color: #ff8dcb;
-  --header-description-text-color: #000028;
+  --header-description-text-color: #353430;
   --section-title-color: #353430;
-  --section-subtitle-color: #000028;
+  --section-subtitle-color: #353430;
   --section-main-text-color: #353430;
   --section-main-text-accent-link-color: #f1b2ce;
 }
@@ -39,15 +39,15 @@
       --font-size: 18px;
       --display-header-decoration: none;
       --change-theme-menu-text-color: #353430;
-      --change-theme-menu-button-hover-color: #353430;
+      --change-theme-menu-button-hover-color: #35343040;
       --change-theme-menu-button-focus-color: #353430;
       --change-theme-menu-button-active-color: #353430;
       --header-title-text-color: #ffc2e6;
-      --text-shadow-color: #ff0070;
+      --text-shadow-color: #ff8dcb;
       --title-decor-color: #ff8dcb;
-      --header-description-text-color: #000028;
+      --header-description-text-color: #353430;
       --section-title-color: #353430;
-      --section-subtitle-color: #000028;
+      --section-subtitle-color: #353430;
       --section-main-text-color: #353430;
       --section-main-text-accent-link-color: #f1b2ce;
   }
